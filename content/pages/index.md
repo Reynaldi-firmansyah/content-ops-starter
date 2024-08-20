@@ -12,7 +12,8 @@ sections:
           textAlign: left
           fontWeight: 700
     subtitle: Sarjana Pendidikan Bahasa & Sastra Indonesia
-    text: ''
+    text: >
+      ![](/images/Canonical_Launchpad_icon_64px.png)[launchpad.net](launchpad.net)
     actions:
       - type: Link
         altText: ''
