@@ -38,7 +38,7 @@ sections:
       type: ImageBlock
     badge:
       label: CV
-      color: text-primary
+      color: text-light
       type: Badge
     elementId: ''
     colors: bg-dark-fg-light
