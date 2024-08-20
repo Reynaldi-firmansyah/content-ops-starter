@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Reynaldi '
+      text: 'Reynaldi Firmansyah Caesar, S.Pd.'
       color: text-light
       type: TitleBlock
       styles:
