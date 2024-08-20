@@ -7,6 +7,9 @@ sections:
       text: 'Reynaldi Firmansyah Caesar, S.Pd.'
       color: text-light
       type: TitleBlock
+      styles:
+        self:
+          textAlign: justify
     subtitle: Subtitle goes here
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
