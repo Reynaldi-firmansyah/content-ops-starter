@@ -192,6 +192,17 @@ sections:
         self:
           textAlign: center
           fontWeight: 700
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
