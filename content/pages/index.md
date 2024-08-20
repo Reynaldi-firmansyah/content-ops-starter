@@ -81,12 +81,8 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
-      Lulusan baru yang berdedikasi dan penuh semangat dari Universitas
-      Brawijaya, memegang gelar Sarjana Pendidikan Bahasa dan Sastra Indonesia
-      dengan IPK 3,79 (Sangat Memuaskan). Berpengalaman di bidang penerjemahan,
-      pendidikan, dan pengabdian masyarakat, dengan komitmen yang kuat untuk
-      mengembangkan kemampuan bahasa dan pengembangan pendidikan.
+    text: |
+      lorem ipsum
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
