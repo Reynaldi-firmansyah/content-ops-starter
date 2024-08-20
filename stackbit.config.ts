@@ -1,3 +1,46 @@
+import { defineStackbitConfig, DocumentStringLikeFieldNonLocalized, SiteMapEntry } from '@stackbit/types';
+import { GitContentSource } from '@stackbit/cms-git';
+import { allModels } from 'sources/local/models';
+
+const gitContentSource = new GitContentSource({
+    rootPath: __dirname,
+    contentDirs: ['content'],
+    models: Object.values(allModels),
+    assetsConfig: {
+        referenceType: 'static',
+        staticDir: 'public',
+        uploadDir: 'images',
+        publicPath: '/'
+    }
+});
+
+// Define the LaunchpadLink model
+const launchpadLinkModel = {
+    name: 'LaunchpadLink',
+    type: 'object',
+    label: 'Launchpad Link',
+    fields: [
+        {
+            name: 'url',
+            type: 'string',
+            label: 'Launchpad URL',
+            default: 'https://launchpad.net'
+        },
+        {
+            name: 'iconSrc',
+            type: 'string',
+            label: 'Icon Source',
+            default: '/images/Canonical_Launchpad_icon_64px.png'
+        },
+        {
+            name: 'altText',
+            type: 'string',
+            label: 'Alt Text',
+            default: 'Launchpad'
+        }
+    ]
+};
+
 export const config = defineStackbitConfig({
     stackbitVersion: '~0.6.0',
     ssgName: 'nextjs',
@@ -41,3 +84,6 @@ export const config = defineStackbitConfig({
             });
     }
 });
+
+
+export default config;
