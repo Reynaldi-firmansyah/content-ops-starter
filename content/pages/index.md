@@ -63,7 +63,7 @@ sections:
       opacity: 100
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/filefx34.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
