@@ -852,6 +852,9 @@ sections:
       type: TitleBlock
       text: Sertifikat
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
