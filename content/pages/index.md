@@ -61,7 +61,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/background.gif
   - title:
       text: Tentang Saya
       color: text-dark
