@@ -765,7 +765,16 @@ sections:
       color: text-dark
     subtitle: ''
     text: ''
-    actions: []
+    actions:
+      - type: Link
+        label: Facebook
+        altText: Facebook
+        url: /
+        showIcon: true
+        icon: facebook
+        iconPosition: left
+        style: secondary
+        elementId: ''
     badge:
       type: Badge
       label: Contact Us
