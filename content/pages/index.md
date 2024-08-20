@@ -13,7 +13,15 @@ sections:
           fontWeight: 700
     subtitle: Sarjana Pendidikan Bahasa & Sastra Indonesia
     text: ''
-    actions: []
+    actions:
+      - type: Link
+        altText: ''
+        url: /
+        showIcon: true
+        icon: instagram
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/fileclean.png
       altText: Unblock your team boost your time to production preview
