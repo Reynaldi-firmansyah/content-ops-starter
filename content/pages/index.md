@@ -40,7 +40,7 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: /images/fileclean.png
+      url: /images/filefx34.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
