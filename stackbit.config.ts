@@ -14,33 +14,6 @@ const gitContentSource = new GitContentSource({
     }
 });
 
-// Define the LaunchpadLink model
-const launchpadLinkModel = {
-    name: 'LaunchpadLink',
-    type: 'object',
-    label: 'Launchpad Link',
-    fields: [
-        {
-            name: 'url',
-            type: 'string',
-            label: 'Launchpad URL',
-            default: 'https://launchpad.net'
-        },
-        {
-            name: 'iconSrc',
-            type: 'string',
-            label: 'Icon Source',
-            default: '/images/Canonical_Launchpad_icon_64px.png'
-        },
-        {
-            name: 'altText',
-            type: 'string',
-            label: 'Alt Text',
-            default: 'Launchpad'
-        }
-    ]
-};
-
 export const config = defineStackbitConfig({
     stackbitVersion: '~0.6.0',
     ssgName: 'nextjs',
@@ -51,11 +24,6 @@ export const config = defineStackbitConfig({
         type: 'files',
         presetDirs: ['sources/local/presets']
     },
-    // Add the LaunchpadLink model to the Stackbit config
-    models: {
-        ...allModels,
-        LaunchpadLink: launchpadLinkModel
-    },
     siteMap: ({ documents, models }): SiteMapEntry[] => {
         const pageModels = models.filter((model) => model.type === 'page').map((model) => model.name);
         return documents
@@ -63,6 +31,8 @@ export const config = defineStackbitConfig({
             .map((document) => {
                 let slug = (document.fields.slug as DocumentStringLikeFieldNonLocalized)?.value;
                 if (!slug) return null;
+                /* Remove the leading slash in order to generate correct urlPath
+                regardless of whether the slug is '/', 'slug' or '/slug' */
                 slug = slug.replace(/^\/+/, '');
                 switch (document.modelName) {
                     case 'PostFeedLayout':
@@ -84,6 +54,5 @@ export const config = defineStackbitConfig({
             });
     }
 });
-
 
 export default config;
