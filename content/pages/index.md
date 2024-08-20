@@ -855,6 +855,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
