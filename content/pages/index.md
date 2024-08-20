@@ -851,7 +851,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Pengalaman
       color: text-dark
       styles:
         self:
