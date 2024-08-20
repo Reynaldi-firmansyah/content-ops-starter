@@ -63,7 +63,7 @@ sections:
       opacity: 100
     media:
       type: ImageBlock
-      url: /images/filefx34.png
+      url: /images/filefx3x4x75.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
