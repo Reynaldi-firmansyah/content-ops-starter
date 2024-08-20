@@ -74,7 +74,7 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
   - title:
-      text: Grow your business 10x faster
+      text: Tentang Saya
       color: text-dark
       styles:
         self:
