@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Menu",
-            "altText": "Menu",
+            "altText": "Dropdown",
             "links": [
                 {
                     "label": "Dropdown item",
