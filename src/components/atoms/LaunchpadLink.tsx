@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+import React from 'react';
+
+// LaunchpadLink model definition
 const launchpadLinkModel = {
     name: 'LaunchpadLink',
     type: 'object', // or 'component', 'page', etc., based on what it actually represents
@@ -24,9 +26,8 @@ const launchpadLinkModel = {
         }
     ]
 };
-=======
-import React from 'react';
 
+// LaunchpadLink component
 const LaunchpadLink = () => (
     <a href="https://launchpad.net" target="_blank" rel="noopener noreferrer">
         <img
@@ -38,4 +39,3 @@ const LaunchpadLink = () => (
 );
 
 export default LaunchpadLink;
->>>>>>> 0d21c888873f4ae713f9d32d75e48a3da91de9c4
