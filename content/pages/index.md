@@ -106,13 +106,6 @@ sections:
       autoplay: true
       loop: true
       muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
