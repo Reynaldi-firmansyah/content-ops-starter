@@ -775,7 +775,7 @@ sections:
       type: ImageBlock
       url: /images/Canonical_Launchpad_icon_64px.png
       altText: Image alt text placeholder
-      elementId: ''
+      elementId: canonical
       styles:
         self:
           borderRadius: medium
