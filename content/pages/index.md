@@ -773,7 +773,7 @@ sections:
     colors: bg-light-fg-dark
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Canonical_Launchpad_icon_64px.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
