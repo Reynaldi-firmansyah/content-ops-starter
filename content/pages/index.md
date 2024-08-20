@@ -22,6 +22,14 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        altText: LinkedIn
+        url: /
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/fileclean.png
       altText: Unblock your team boost your time to production preview
