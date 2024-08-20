@@ -81,11 +81,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Lulusan baru yang berdedikasi dan penuh semangat dari Universitas
+      Brawijaya, memegang gelar Sarjana Pendidikan Bahasa dan Sastra Indonesia
+      dengan IPK 3,79 (Sangat Memuaskan). Berpengalaman di bidang penerjemahan,
+      pendidikan, dan pengabdian masyarakat, dengan komitmen yang kuat untuk
+      mengembangkan kemampuan bahasa dan pengembangan pendidikan.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
