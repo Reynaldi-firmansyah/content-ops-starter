@@ -30,6 +30,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        label: Send email
+        altText: Play
+        url: /
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/fileclean.png
       altText: Unblock your team boost your time to production preview
