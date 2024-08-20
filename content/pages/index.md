@@ -461,36 +461,6 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions:
-      - type: Link
-        label: Facebook
-        altText: Facebook
-        url: /
-        showIcon: true
-        icon: facebook
-        iconPosition: left
-        style: secondary
-        elementId: ''
-    badge:
-      type: Badge
-      label: Contact Us
-      color: text-primary
-    colors: bg-light-fg-dark
-    media:
-      type: ImageBlock
-      url: /images/Canonical_Launchpad_icon_64px.png
-      altText: Image alt text placeholder
-      elementId: canonical
-      styles:
-        self:
-          borderRadius: medium
   - type: CarouselSection
     items:
       - type: FeaturedItem
