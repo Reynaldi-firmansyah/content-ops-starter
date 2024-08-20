@@ -125,7 +125,7 @@ sections:
         tagline: Sertifikat 1
         subtitle: ''
         text: >
-          \<div style="text-align: left">![](/images/1000045914.jpg)\</div>
+          ![](/images/UKBI75.png)
 
 
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
