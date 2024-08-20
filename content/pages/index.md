@@ -850,7 +850,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Sertifikat
       color: text-dark
   - type: FeaturedPostsSection
     title:
