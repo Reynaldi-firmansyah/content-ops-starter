@@ -39,18 +39,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-    media:
-      url: /images/filefx34.png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-      styles:
-        self:
-          padding:
-            - pt-1
-            - pl-1
-            - pb-1
-            - pr-1
     badge:
       label: CV
       color: text-light
