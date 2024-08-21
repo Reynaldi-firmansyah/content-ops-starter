@@ -55,7 +55,7 @@ sections:
       - type: Link
         label: '| E-mail |'
         altText: ''
-        url: '| EMAIL |'
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
