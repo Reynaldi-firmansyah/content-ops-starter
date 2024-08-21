@@ -173,7 +173,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Sertifikat TI
-        tagline: Sertifikat 1
+        tagline: Sertifikat 3
         subtitle: ''
         text: |
           <div style="text-align: center;">
