@@ -125,6 +125,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/1000045914.jpg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
