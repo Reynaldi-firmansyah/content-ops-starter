@@ -144,10 +144,11 @@ sections:
         title: Sertifikat TOEFL
         tagline: Sertifikat 2
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+
+          Berikut sertifikat TOEFL yang saya miliki. Silahkan tekan gambar untuk
+          mengunduh file .pdf.
         image:
           type: ImageBlock
           altText: Business consulting
