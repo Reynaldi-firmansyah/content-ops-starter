@@ -13,9 +13,12 @@ sections:
           fontWeight: 700
     subtitle: Sarjana Pendidikan Bahasa & Sastra Indonesia
     text: |
-      [![](/images/Canonical_Launchpad_icon_64px.png) ](https://launchpad.net)
-
-      ![](/images/output-onlinepngtools.png)
+      <div style="display: flex; justify-content: center; gap: 10px;">
+          <a href="https://launchpad.net" target="_blank">
+              <img src="/images/Canonical_Launchpad_icon_64px.png" alt="Launchpad" style="width: 64px; height: 64px;">
+          </a>
+          <img src="/images/output-onlinepngtools.png" alt="Output Image" style="width: 64px; height: 64px;">
+      </div>
     actions:
       - type: Link
         altText: ''
