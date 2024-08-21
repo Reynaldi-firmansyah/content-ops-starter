@@ -44,18 +44,18 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: '| WA |'
+        label: '| E-mail |'
         altText: ''
-        url: whatsapp.me
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
       - type: Link
-        label: '| E-mail |'
+        label: '| WA |'
         altText: ''
-        url: ''
+        url: whatsapp.me
         showIcon: false
         icon: arrowRight
         iconPosition: right
