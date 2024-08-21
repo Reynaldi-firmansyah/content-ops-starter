@@ -17,6 +17,15 @@ sections:
 
     actions:
       - type: Link
+        label: '| IG |'
+        altText: ''
+        url: 'https://www.instagram.com/reynaldi_firmansyah_c?utm_source=qr'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
         label: '| LI |'
         altText: ''
         url: linkedin.com
@@ -38,15 +47,6 @@ sections:
         label: '| Launchpad |'
         altText: ''
         url: launchpad.net
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Link
-        label: '| IG |'
-        altText: ''
-        url: 'https://www.instagram.com/reynaldi_firmansyah_c?utm_source=qr'
         showIcon: false
         icon: arrowRight
         iconPosition: right
