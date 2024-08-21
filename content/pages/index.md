@@ -175,11 +175,13 @@ sections:
         title: Sertifikat TI
         tagline: Sertifikat 3
         subtitle: ''
-        text: >
-
-
-          Berikut adalah sertifikat TI yang saya miliki. Silahkan tekan gambar
-          untuk mengunduh file .pdf
+        text: |
+          <div style="text-align: center;">
+              <a href="https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/TRUSTEDTI.pdf" download="">
+                  <img src="/images/TRUSTEDTI75.jpg" alt="TRUSTEDTI75" style="display: block; margin: auto;">
+              </a>
+              <p>Berikut adalah sertifikat TI yang saya miliki. Silahkan tekan gambar untuk mengunduh file .pdf</p>
+          </div>
         image:
           type: ImageBlock
           altText: Featured item
