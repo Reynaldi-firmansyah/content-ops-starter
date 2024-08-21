@@ -30,7 +30,7 @@ sections:
         altText: ''
         url: linkedin.com
         showIcon: true
-        icon: arrowRight
+        icon: ''
         iconPosition: right
         style: secondary
         elementId: ''
