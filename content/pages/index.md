@@ -145,7 +145,7 @@ sections:
         tagline: Sertifikat 2
         subtitle: ''
         text: >
-          ![](/images/TOEFLITP17575.png)
+          ![](/images/TOEFLITP1757550.png)
 
 
           Berikut sertifikat TOEFL yang saya miliki. Silahkan tekan gambar untuk
