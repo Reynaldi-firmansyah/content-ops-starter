@@ -17,14 +17,6 @@ sections:
 
     actions:
       - type: Link
-        altText: LinkedIn
-        url: /
-        showIcon: true
-        icon: linkedin
-        iconPosition: left
-        style: secondary
-        elementId: ''
-      - type: Link
         label: Launchpad
         altText: ''
         url: launchpad.net
