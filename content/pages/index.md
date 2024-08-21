@@ -34,7 +34,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: Launchpad
         altText: ''
         url: launchpad.net
         showIcon: false
