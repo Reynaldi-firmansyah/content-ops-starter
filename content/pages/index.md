@@ -66,7 +66,7 @@ sections:
       type: ImageBlock
       url: /images/filefx3x4x75.png
       altText: Image alt text placeholder
-      elementId: ''
+      elementId: pho
       styles:
         self:
           borderRadius: medium
