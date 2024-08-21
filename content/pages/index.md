@@ -35,7 +35,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Launchpad
+        label: '| Launchpad |'
         altText: ''
         url: launchpad.net
         showIcon: false
