@@ -26,18 +26,18 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Launchpad
+        label: WA
         altText: ''
-        url: launchpad.net
+        url: whatsapp.me
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
       - type: Link
-        label: WA
+        label: Launchpad
         altText: ''
-        url: whatsapp.me
+        url: launchpad.net
         showIcon: false
         icon: arrowRight
         iconPosition: right
