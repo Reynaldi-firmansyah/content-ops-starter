@@ -338,6 +338,6 @@ seo:
   metaDescription: Reynaldi personal website
   socialImage: /images/main-hero.jpg
   type: Seo
-  addTitleSuffix: true
+  addTitleSuffix: false
 type: PageLayout
 ---
