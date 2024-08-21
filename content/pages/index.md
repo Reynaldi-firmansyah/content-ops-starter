@@ -12,8 +12,9 @@ sections:
           textAlign: left
           fontWeight: 700
     subtitle: Sarjana Pendidikan Bahasa & Sastra Indonesia
-    text: |
-      [![](/images/Canonical_Launchpad_icon_64px.png)](https://launchpad.net)
+    text: |+
+
+
     actions:
       - type: Link
         altText: ''
@@ -32,7 +33,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Send email
+        label: ''
         altText: Play
         url: /
         showIcon: true
@@ -115,20 +116,26 @@ sections:
         tagline: Sertifikat 1
         subtitle: ''
         text: |
-          <div style="text-align: center;">
-              <a href="https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/UKBI.pdf" download="">
-                  <img src="/images/UKBI75.png" alt="UKBI75" style="display: block; margin: auto;">
-              </a>
-              <p>Berikut adalah sertifikat UKBI yang saya miliki. Silahkan tekan gambar untuk mengunduh file .pdf</p>
-          </div>
+          Berikut adalah sertifikat UKBI yang saya miliki. 
         image:
           type: ImageBlock
           altText: Featured item
           styles:
             self:
               borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
+          url: /images/1000045914.jpg
+        actions:
+          - type: Button
+            label: Unduh
+            altText: ''
+            url: >-
+              https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/UKBI.pdf
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -136,7 +143,7 @@ sections:
               - pb-9
               - pl-9
               - pr-9
-            textAlign: center
+            textAlign: left
             borderRadius: large
             flexDirection: row
             justifyContent: center
@@ -144,13 +151,10 @@ sections:
         title: Sertifikat TOEFL
         tagline: Sertifikat 2
         subtitle: ''
-        text: |
-          <div style="text-align: center;">
-              <a href="https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/TOEFL.pdf" download="">
-                  <img src="/images/TOEFLITP1757550.png" alt="TOEFL ITP" style="display: block; margin: auto;">
-              </a>
-              <p>Berikut sertifikat TOEFL yang saya miliki. Silahkan tekan gambar untuk mengunduh file .pdf.</p>
-          </div>
+        text: |+
+          Berikut sertifikat TOEFL yang saya miliki.
+
+
         image:
           type: ImageBlock
           altText: Business consulting
@@ -158,8 +162,19 @@ sections:
           styles:
             self:
               borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
+          url: /images/TOEFLITP175.png
+        actions:
+          - type: Button
+            label: Unduh
+            altText: ''
+            url: >-
+              https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/TOEFL.pdf
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -167,7 +182,7 @@ sections:
               - pb-9
               - pl-9
               - pr-9
-            textAlign: center
+            textAlign: left
             borderRadius: large
             flexDirection: row
             justifyContent: center
@@ -175,20 +190,28 @@ sections:
         title: Sertifikat TI
         tagline: Sertifikat 3
         subtitle: ''
-        text: |
-          <div style="text-align: center;">
-              <a href="https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/TRUSTEDTI.pdf" download="">
-                  <img src="/images/TRUSTEDTI75.jpg" alt="TRUSTEDTI75" style="display: block; margin: auto;">
-              </a>
-              <p>Berikut adalah sertifikat TI yang saya miliki. Silahkan tekan gambar untuk mengunduh file .pdf</p>
-          </div>
+        text: |+
+          Berikut adalah sertifikat TI yang saya miliki. 
+
+
         image:
           type: ImageBlock
           altText: Featured item
           styles:
             self:
               borderRadius: medium
-        actions: []
+          url: /images/TRUSTEDTI75.jpg
+        actions:
+          - type: Button
+            label: Unduh
+            altText: ''
+            url: >-
+              https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/TRUSTEDTI.pdf
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -197,7 +220,7 @@ sections:
               - pb-9
               - pl-9
               - pr-9
-            textAlign: center
+            textAlign: left
             borderRadius: large
             flexDirection: row
             justifyContent: center
@@ -206,19 +229,25 @@ sections:
         tagline: Sertifikat 4
         subtitle: ''
         text: |
-          <div style="text-align: center;">
-              <a href="https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/google.pdf" download="">
-                  <img src="/images/google75.png" alt="Google Certificate" style="display: block; margin: auto;">
-              </a>
-              <p>Berikut adalah sertifikat partisipasi program Grow With Google. Silahkan tekan gambar untuk mengunduh file .pdf.</p>
-          </div>
+          Berikut adalah sertifikat partisipasi program Grow With Google.
         image:
           type: ImageBlock
           altText: Featured item
           styles:
             self:
               borderRadius: medium
-        actions: []
+          url: /images/google75.png
+        actions:
+          - type: Button
+            label: Unduh
+            altText: ''
+            url: >-
+              https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/google.pdf
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -227,7 +256,7 @@ sections:
               - pb-9
               - pl-9
               - pr-9
-            textAlign: center
+            textAlign: left
             borderRadius: large
             flexDirection: row
             justifyContent: center
