@@ -114,13 +114,20 @@ sections:
         title: 'Sertifikat UKBI '
         tagline: Sertifikat 1
         subtitle: ''
-        text: |
-          <div style="text-align: center;">
-              <p>Berikut adalah sertifikat UKBI yang saya miliki. Silahkan tekan gambar untuk mengunduh file .pdf</p>
-              <a href="https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/UKBI.pdf" download="">
-                  <img src="/images/UKBI75.png" alt="UKBI75" style="display: block; margin: auto;">
-              </a>
-          </div>
+        text: >+
+          \<div style="text-align: center">```
+
+          <a
+          href="https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/UKBI.pdf"
+          download="">
+              <img src="/images/UKBI75.png" alt="UKBI75" style="display: block; margin: auto;">
+          </a>
+
+          <p>Berikut adalah sertifikat UKBI yang saya miliki. Silahkan tekan
+          gambar untuk mengunduh file .pdf</p>
+
+          ```\</div>
+
         image:
           type: ImageBlock
           altText: Featured item
