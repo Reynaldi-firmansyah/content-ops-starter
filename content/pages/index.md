@@ -336,7 +336,7 @@ sections:
 seo:
   metaTitle: 'Reynaldi '
   metaDescription: Reynaldi personal website
-  socialImage: /images/filefx3x4x75.png
+  socialImage: /images/logo-dark.svg
   type: Seo
   addTitleSuffix: false
 type: PageLayout
