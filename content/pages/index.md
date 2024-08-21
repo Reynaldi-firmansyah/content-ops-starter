@@ -163,7 +163,17 @@ sections:
             self:
               borderRadius: medium
           url: /images/TOEFLITP175.png
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              /https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/TOEFL.pdf
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-dark-fg-light
         styles:
           self:
