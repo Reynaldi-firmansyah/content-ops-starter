@@ -44,7 +44,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: '| IG |'
         altText: ''
         url: 'https://www.instagram.com/reynaldi_firmansyah_c?utm_source=qr'
         showIcon: false
