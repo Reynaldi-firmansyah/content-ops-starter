@@ -144,12 +144,13 @@ sections:
         title: Sertifikat TOEFL
         tagline: Sertifikat 2
         subtitle: ''
-        text: >
-          ![](/images/TOEFLITP1757550.png)
-
-
-          Berikut sertifikat TOEFL yang saya miliki. Silahkan tekan gambar untuk
-          mengunduh file .pdf.
+        text: |
+          <div style="text-align: center;">
+              <a href="https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/TOEFL.pdf" download="">
+                  <img src="/images/TOEFLITP1757550.png" alt="TOEFL ITP" style="display: block; margin: auto;">
+              </a>
+              <p>Berikut sertifikat TOEFL yang saya miliki. Silahkan tekan gambar untuk mengunduh file .pdf.</p>
+          </div>
         image:
           type: ImageBlock
           altText: Business consulting
