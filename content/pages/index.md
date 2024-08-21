@@ -115,8 +115,11 @@ sections:
         tagline: Sertifikat 1
         subtitle: ''
         text: >
-          [![Alt
-          text](/images/UKBI75.png)](https://raw.githubusercontent.com/Reynaldi-firmansyah/content-ops-starter/main/public/PDF/UKBI.pdf)
+          <div style="text-align: center;">
+              <a href="https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/UKBI.pdf" download>
+                  <img src="/images/UKBI75.png" alt="UKBI75">
+              </a>
+          </div>
 
           Berikut sertifikat UKBI yang saya miliki. Anda bisa menekan gambar
           untuk mengunduh file .pdf
