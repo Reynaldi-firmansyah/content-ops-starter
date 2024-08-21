@@ -1,0 +1,28 @@
+{
+    "model": "Button",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "setif unduh",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "sertifikat"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Unduh",
+                "altText": "",
+                "url": "https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/UKBI.pdf",
+                "showIcon": true,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            },
+            "thumbnail": "images/button-setif-unduh-4f8b.png"
+        }
+    ]
+}
