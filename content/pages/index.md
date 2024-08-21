@@ -46,7 +46,7 @@ sections:
       - type: Link
         label: '| E-mail |'
         altText: ''
-        url: ''
+        url: reynaldiverified@gmail.com
         showIcon: false
         icon: arrowRight
         iconPosition: right
