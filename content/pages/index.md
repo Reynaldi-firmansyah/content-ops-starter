@@ -124,7 +124,17 @@ sections:
             self:
               borderRadius: medium
           url: /images/1000045914.jpg
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              /https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/UKBI.pdf
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
