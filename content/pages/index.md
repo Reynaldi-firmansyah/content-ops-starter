@@ -43,6 +43,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: 'https://www.instagram.com/reynaldi_firmansyah_c?utm_source=qr'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       label: CV
       color: text-light
