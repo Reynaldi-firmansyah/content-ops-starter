@@ -26,7 +26,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: LI
         altText: ''
         url: linkedin.com
         showIcon: false
