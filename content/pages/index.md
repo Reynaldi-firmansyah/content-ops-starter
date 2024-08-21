@@ -17,20 +17,20 @@ sections:
 
     actions:
       - type: Link
-        label: Launchpad
-        altText: ''
-        url: launchpad.net
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Link
         label: LI
         altText: ''
         url: linkedin.com
         showIcon: false
         icon: ''
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
+        label: Launchpad
+        altText: ''
+        url: launchpad.net
+        showIcon: false
+        icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
