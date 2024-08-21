@@ -17,7 +17,7 @@ sections:
 
     actions:
       - type: Link
-        label: LI
+        label: '| LI |'
         altText: ''
         url: linkedin.com
         showIcon: false
