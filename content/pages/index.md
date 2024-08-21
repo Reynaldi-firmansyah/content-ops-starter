@@ -35,6 +35,15 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
+        label: '| Launchpad |'
+        altText: ''
+        url: launchpad.net
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
         label: '| WA |'
         altText: ''
         url: whatsapp.me
@@ -47,15 +56,6 @@ sections:
         label: '| E-mail |'
         altText: ''
         url: ''
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Link
-        label: '| Launchpad |'
-        altText: ''
-        url: launchpad.net
         showIcon: false
         icon: arrowRight
         iconPosition: right
