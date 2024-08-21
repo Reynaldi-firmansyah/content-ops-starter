@@ -44,18 +44,18 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: '| Launchpad |'
+        label: '| E-mail |'
         altText: ''
-        url: launchpad.net
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
       - type: Link
-        label: '| E-mail |'
+        label: '| Launchpad |'
         altText: ''
-        url: ''
+        url: launchpad.net
         showIcon: false
         icon: arrowRight
         iconPosition: right
