@@ -118,8 +118,8 @@ sections:
           [![Alt
           text](/images/UKBI75.png)](https://raw.githubusercontent.com/Reynaldi-firmansyah/content-ops-starter/main/public/PDF/UKBI.pdf)
 
-          \<div style="text-align: center">Berikut sertifikat UKBI yang saya
-          miliki. Anda bisa menekan gambar untuk mengunduh file .pdf\</div>
+          Berikut sertifikat UKBI yang saya miliki. Anda bisa menekan gambar
+          untuk mengunduh file .pdf
         image:
           type: ImageBlock
           altText: Featured item
