@@ -247,6 +247,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/google75.png
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
