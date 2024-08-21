@@ -248,7 +248,17 @@ sections:
             self:
               borderRadius: medium
           url: /images/google75.png
-        actions: []
+        actions:
+          - type: Button
+            label: Unduh
+            altText: ''
+            url: >-
+              https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/google.pdf
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
