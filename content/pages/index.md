@@ -25,15 +25,6 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: ''
-        altText: Play
-        url: /
-        showIcon: true
-        icon: mail
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Link
         label: Launchpad
         altText: ''
         url: launchpad.net
