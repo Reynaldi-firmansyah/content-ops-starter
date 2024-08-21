@@ -53,7 +53,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: '| E-mail |'
         altText: ''
         url: '| EMAIL |'
         showIcon: false
