@@ -126,7 +126,7 @@ sections:
           url: /images/1000045914.jpg
         actions:
           - type: Button
-            label: Get started
+            label: Unduh
             altText: ''
             url: >-
               /https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/UKBI.pdf
