@@ -200,6 +200,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/TRUSTEDTI75.jpg
         actions:
           - type: Button
             label: Unduh
