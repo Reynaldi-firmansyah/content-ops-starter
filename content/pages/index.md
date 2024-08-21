@@ -12,14 +12,9 @@ sections:
           textAlign: left
           fontWeight: 700
     subtitle: Sarjana Pendidikan Bahasa & Sastra Indonesia
-    text: >
+    text: |+
 
 
-      <div style="display: flex; align-items: center; justify-content: center;
-      gap: 10px;">
-          <img src="stackbit_asset_id:static:public/images/Canonical_Launchpad_icon_64px.png" alt="Canonical Launchpad Icon" style="height: 64px; vertical-align: middle;">
-          <img src="stackbit_asset_id:static:public/images/output-onlinepngtools.png" alt="Output Image" style="height: 64px; vertical-align: middle;">
-      </div>
     actions:
       - type: Link
         altText: ''
