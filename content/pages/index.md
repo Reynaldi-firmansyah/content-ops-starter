@@ -26,7 +26,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: WA
+        label: '| WA |'
         altText: ''
         url: whatsapp.me
         showIcon: false
