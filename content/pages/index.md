@@ -29,7 +29,7 @@ sections:
         label: LI
         altText: ''
         url: linkedin.com
-        showIcon: true
+        showIcon: false
         icon: ''
         iconPosition: right
         style: secondary
