@@ -31,7 +31,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Send email
+        label: ''
         altText: Play
         url: /
         showIcon: true
