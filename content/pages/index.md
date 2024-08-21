@@ -162,6 +162,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/TOEFLITP175.png
         actions: []
         colors: bg-dark-fg-light
         styles:
