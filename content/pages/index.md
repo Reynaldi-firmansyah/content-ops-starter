@@ -34,6 +34,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: whatsapp.me
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge:
       label: CV
       color: text-light
