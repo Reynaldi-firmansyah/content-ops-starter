@@ -228,19 +228,8 @@ sections:
         title: Sertifikat Grow With Google
         tagline: Sertifikat 4
         subtitle: ''
-        text: >+
-          \<div style="text-align: center">```
-
-          <a
-          href="https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/google.pdf"
-          download="">
-              <img src="/images/google75.png" alt="Google Certificate" style="display: block; margin: auto;">
-          </a>
-
-          <p>Berikut adalah sertifikat partisipasi program Grow With Google. 
-
-          ```\</div>
-
+        text: |
+          Berikut adalah sertifikat partisipasi program Grow With Google.
         image:
           type: ImageBlock
           altText: Featured item
