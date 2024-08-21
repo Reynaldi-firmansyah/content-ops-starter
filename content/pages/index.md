@@ -35,7 +35,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: WA
         altText: ''
         url: whatsapp.me
         showIcon: false
