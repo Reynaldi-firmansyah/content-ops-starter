@@ -17,14 +17,6 @@ sections:
 
     actions:
       - type: Link
-        altText: ''
-        url: /
-        showIcon: true
-        icon: instagram
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Link
         altText: LinkedIn
         url: /
         showIcon: true
