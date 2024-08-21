@@ -32,7 +32,7 @@ sections:
         showIcon: false
         icon: ''
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
     badge:
       label: CV
