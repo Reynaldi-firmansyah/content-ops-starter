@@ -99,18 +99,15 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: >
       Perkenalkan, saya Reynaldi Firmansyah Caesar, seorang lulusan baru dengan
       gelar Sarjana Pendidikan Bahasa dan Sastra Indonesia dari Universitas
       Brawijaya. Dengan latar belakang akademis yang solid, lulus dengan IPK
       3.79 dan mendapatkan predikat "Sangat Memuaskan", saya memiliki minat yang
-      besar dalam bahasa, sastra, dan pendidikan.
-
-
-      Pengalaman saya sebagai berikut, magang sebagai staf di Unit P4 FIB UB dan
-      sebagai pengajar di SMPN 15 Malang. Selain itu, saya aktif sebagai
-      penerjemah sukarela di Launchpad.net sejak 2019.
-
+      besar dalam bahasa, sastra, dan pendidikan. Pengalaman saya sebagai
+      berikut, magang sebagai staf di Unit P4 FIB UB dan sebagai pengajar di
+      SMPN 15 Malang. Selain itu, saya aktif sebagai penerjemah sukarela di
+      Launchpad.net sejak 2019.
     colors: bg-light-fg-dark
     styles:
       self:
