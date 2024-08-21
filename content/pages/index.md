@@ -114,14 +114,12 @@ sections:
         title: 'Sertifikat UKBI '
         tagline: Sertifikat 1
         subtitle: ''
-        text: >+
-          \<div style="text-align: center">[![Alt
-          text](/images/UKBI75.png)](https://raw.githubusercontent.com/Reynaldi-firmansyah/content-ops-starter/main/public/PDF/UKBI.pdf)\</div>
-
+        text: >
+          [![Alt
+          text](/images/UKBI75.png)](https://raw.githubusercontent.com/Reynaldi-firmansyah/content-ops-starter/main/public/PDF/UKBI.pdf)
 
           \<div style="text-align: center">Berikut sertifikat UKBI yang saya
           miliki. Anda bisa menekan gambar untuk mengunduh file .pdf\</div>
-
         image:
           type: ImageBlock
           altText: Featured item
