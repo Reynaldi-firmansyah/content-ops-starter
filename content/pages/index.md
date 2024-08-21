@@ -17,27 +17,47 @@ sections:
 
     actions:
       - type: Link
+        label: '| IG |'
         altText: ''
-        url: /
-        showIcon: true
-        icon: instagram
+        url: 'https://www.instagram.com/reynaldi_firmansyah_c?utm_source=qr'
+        showIcon: false
+        icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
       - type: Link
-        altText: LinkedIn
-        url: /
-        showIcon: true
-        icon: linkedin
-        iconPosition: left
+        label: '| LI |'
+        altText: ''
+        url: 'https://www.linkedin.com/in/reynaldi-firmansyah-caesar-1992a9324/'
+        showIcon: false
+        icon: ''
+        iconPosition: right
         style: secondary
         elementId: ''
       - type: Link
-        label: ''
-        altText: Play
-        url: /
-        showIcon: true
-        icon: mail
+        label: '| Launchpad |'
+        altText: ''
+        url: 'https://launchpad.net/~user-rey'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
+        label: '| E-mail |'
+        altText: ''
+        url: reynaldiverified@gmail.com
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
+        label: '| WA |'
+        altText: ''
+        url: whatsapp.me
+        showIcon: false
+        icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
@@ -79,18 +99,15 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: >
       Perkenalkan, saya Reynaldi Firmansyah Caesar, seorang lulusan baru dengan
       gelar Sarjana Pendidikan Bahasa dan Sastra Indonesia dari Universitas
       Brawijaya. Dengan latar belakang akademis yang solid, lulus dengan IPK
       3.79 dan mendapatkan predikat "Sangat Memuaskan", saya memiliki minat yang
-      besar dalam bahasa, sastra, dan pendidikan.
-
-
-      Pengalaman saya sebagai berikut, magang sebagai staf di Unit P4 FIB UB dan
-      sebagai pengajar di SMPN 15 Malang. Selain itu, saya aktif sebagai
-      penerjemah sukarela di Launchpad.net sejak 2019.
-
+      besar dalam bahasa, sastra, dan pendidikan. Pengalaman saya sebagai
+      berikut, magang sebagai staf di Unit P4 FIB UB dan sebagai pengajar di
+      SMPN 15 Malang. Selain itu, saya aktif sebagai penerjemah sukarela di
+      Launchpad.net sejak 2019.
     colors: bg-light-fg-dark
     styles:
       self:
