@@ -28,7 +28,7 @@ sections:
       - type: Link
         label: '| LI |'
         altText: ''
-        url: linkedin.com
+        url: 'https://www.linkedin.com/in/reynaldi-firmansyah-caesar-1992a9324/'
         showIcon: false
         icon: ''
         iconPosition: right
