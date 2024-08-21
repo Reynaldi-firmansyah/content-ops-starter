@@ -335,7 +335,7 @@ sections:
         justifyContent: center
 seo:
   metaTitle: 'Reynaldi '
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Reynaldi personal website
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
