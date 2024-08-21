@@ -37,7 +37,7 @@ sections:
       - type: Link
         label: '| Launchpad |'
         altText: ''
-        url: launchpad.net
+        url: 'https://launchpad.net/~user-rey'
         showIcon: false
         icon: arrowRight
         iconPosition: right
