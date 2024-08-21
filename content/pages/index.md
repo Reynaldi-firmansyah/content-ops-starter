@@ -129,7 +129,7 @@ sections:
             label: Unduh
             altText: ''
             url: >-
-              /https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/UKBI.pdf
+              https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/UKBI.pdf
             showIcon: true
             icon: arrowRight
             iconPosition: right
