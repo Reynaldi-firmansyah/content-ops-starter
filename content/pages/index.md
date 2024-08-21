@@ -141,7 +141,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: Sertifikat TOEFL
         tagline: Sertifikat 2
         subtitle: Be in good company
         text: >-
