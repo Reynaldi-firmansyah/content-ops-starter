@@ -174,6 +174,16 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+          - type: Button
+            label: Unduh
+            altText: ''
+            url: >-
+              https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/UKBI.pdf
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
