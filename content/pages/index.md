@@ -165,7 +165,7 @@ sections:
           url: /images/TOEFLITP175.png
         actions:
           - type: Button
-            label: Get started
+            label: Unduh
             altText: ''
             url: >-
               /https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/TOEFL.pdf
