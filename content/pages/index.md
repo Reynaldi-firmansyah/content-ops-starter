@@ -329,7 +329,7 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 400
-    subtitle: ''
+    subtitle: Pengalaman
 seo:
   metaTitle: 'Reynaldi '
   metaDescription: Reynaldi personal website
