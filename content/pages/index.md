@@ -337,7 +337,7 @@ sections:
       styles:
         self:
           textAlign: center
-          fontWeight: 700
+          fontWeight: 500
 seo:
   metaTitle: 'Reynaldi '
   metaDescription: Reynaldi personal website
