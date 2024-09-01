@@ -332,7 +332,7 @@ sections:
     subtitle: Pengalaman
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Pengalaman
       color: text-dark
 seo:
   metaTitle: 'Reynaldi '
