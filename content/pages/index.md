@@ -328,6 +328,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
     subtitle: Pengalaman
 seo:
   metaTitle: 'Reynaldi '
