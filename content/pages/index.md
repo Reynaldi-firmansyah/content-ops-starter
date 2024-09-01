@@ -304,13 +304,6 @@ sections:
           - pb-20
           - pr-20
   - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Pengalaman
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     posts:
       - >-
         content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
