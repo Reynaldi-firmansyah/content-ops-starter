@@ -326,6 +326,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+    subtitle: Pengalaman
 seo:
   metaTitle: 'Reynaldi '
   metaDescription: Reynaldi personal website
