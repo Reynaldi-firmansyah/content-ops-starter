@@ -329,7 +329,7 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 400
-    subtitle: Pengalaman
+    subtitle: ''
     title:
       type: TitleBlock
       text: Pengalaman
