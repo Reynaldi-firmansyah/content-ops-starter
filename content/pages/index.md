@@ -336,7 +336,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: left
           fontWeight: 400
 seo:
   metaTitle: 'Reynaldi '
