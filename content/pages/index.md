@@ -330,14 +330,6 @@ sections:
         textAlign: center
         fontWeight: 400
     subtitle: ''
-    title:
-      type: TitleBlock
-      text: Pengalaman
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-          fontWeight: 400
 seo:
   metaTitle: 'Reynaldi '
   metaDescription: Reynaldi personal website
