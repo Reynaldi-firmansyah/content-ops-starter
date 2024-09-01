@@ -334,6 +334,9 @@ sections:
       type: TitleBlock
       text: Pengalaman
       color: text-dark
+      styles:
+        self:
+          textAlign: center
 seo:
   metaTitle: 'Reynaldi '
   metaDescription: Reynaldi personal website
