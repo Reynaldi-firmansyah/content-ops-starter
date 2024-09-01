@@ -330,10 +330,6 @@ sections:
         textAlign: center
         fontWeight: 700
     subtitle: Pengalaman
-    title:
-      type: TitleBlock
-      text: This Is A Big Headline
-      color: text-dark
 seo:
   metaTitle: 'Reynaldi '
   metaDescription: Reynaldi personal website
