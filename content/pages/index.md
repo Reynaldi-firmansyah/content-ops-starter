@@ -303,27 +303,6 @@ sections:
           - pl-20
           - pb-20
           - pr-20
-  - type: ImageGallerySection
-    subtitle: Our customers
-    images: []
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
 seo:
   metaTitle: 'Reynaldi '
   metaDescription: Reynaldi personal website
