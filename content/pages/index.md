@@ -310,8 +310,10 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >+
-      <div style="text-align: center"><iframe
-      src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIpNuJlG_rSamZ_1UdPL_P81iUxwqvVZWJYOXVaaCEzix4S9sBjeBvEBjYhiC6K5puVQ28L-4VcCmw/pubhtml?widget=true&headers=false"></iframe></div>
+      <div style="te<iframe
+      src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vuIrDwv-i7vbsCc_cYo7SCSUQ6WDjgo9YFa3DBj4Lqw&font=Default&lang=en&initial_zoom=2&height=650'
+      width='100%' height='650' webkitallowfullscreen mozallowfullscreen
+      allowfullscreen frameborder='0'></iframe>xt-align: left"></div>
 
     actions: []
     badge:
