@@ -309,9 +309,10 @@ sections:
       text: Business Consulting
       color: text-dark
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      <iframe
+      src="https\://docs.google.com/spreadsheets/d/e/2PACX-1vSIpNuJlG\_rSamZ\_1UdPL\_P81iUxwqvVZWJYOXVaaCEzix4S9sBjeBvEBjYhiC6K5puVQ28L-4VcCmw/pubhtml?widget=true\&headers=false"></iframe>
+
     actions: []
     badge:
       type: Badge
