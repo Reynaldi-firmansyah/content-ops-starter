@@ -312,7 +312,7 @@ sections:
     text: >+
       <iframe
       src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vuIrDwv-i7vbsCc_cYo7SCSUQ6WDjgo9YFa3DBj4Lqw&font=Default&lang=en&initial_zoom=2&height=650'
-      width='200%' height='650' webkitallowfullscreen mozallowfullscreen
+      width='150%' height='650' webkitallowfullscreen mozallowfullscreen
       allowfullscreen frameborder='0'></iframe>
 
     actions: []
