@@ -307,10 +307,6 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/wellster-logo.svg
-        altText: Wellster logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/telus-logo.svg
         altText: Telus logo
         elementId: ''
