@@ -309,9 +309,10 @@ sections:
       text: Business Consulting
       color: text-dark
     subtitle: Be in good company
-    text: >-
-      <iframe
-      src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIpNuJlG_rSamZ_1UdPL_P81iUxwqvVZWJYOXVaaCEzix4S9sBjeBvEBjYhiC6K5puVQ28L-4VcCmw/pubhtml?widget=true&amp;headers=false"></iframe>
+    text: >+
+      <div style="text-align: center"><iframe
+      src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIpNuJlG_rSamZ_1UdPL_P81iUxwqvVZWJYOXVaaCEzix4S9sBjeBvEBjYhiC6K5puVQ28L-4VcCmw/pubhtml?widget=true&headers=false"></iframe></div>
+
     actions: []
     badge:
       type: Badge
