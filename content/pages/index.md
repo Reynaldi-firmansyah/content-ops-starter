@@ -303,27 +303,6 @@ sections:
           - pl-20
           - pb-20
           - pr-20
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: Tes
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 0
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    hoverEffect: shadow
-    styles:
-      self:
-        justifyContent: center
 seo:
   metaTitle: 'Reynaldi '
   metaDescription: Reynaldi personal website
