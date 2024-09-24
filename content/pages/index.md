@@ -306,7 +306,7 @@ sections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: Tes
       color: text-dark
       styles:
         self:
