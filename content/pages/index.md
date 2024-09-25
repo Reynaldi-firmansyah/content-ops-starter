@@ -329,7 +329,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: ''
         tagline: ''
         subtitle: ''
         text: ''
