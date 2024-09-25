@@ -110,13 +110,13 @@ sections:
       ##### *Sejak 2019 saya menjadi penerjemah di komunitas FOSS melalui
       platform Launchpad.net. Saya mengikuti komunitas FOSS dengan harapan bisa
       mempermudah masyarakat Indonesia untuk mengakses teknologi sumber terbuka.
-      Saya juga memperoleh pengalaman praktis yang signifikan selama magang di
-      Unit P4 Fakultas Ilmu Budaya di mana saya mendukung berbagai kegiatan
-      kampus seperti dokumentasi acara, desain sertifikat, dan tugas
-      administratif. Selain itu saya pernah melakukan magang di SMPN 15 Malang
-      sebagai pengajar mata pelajaran Bahasa Indonesia. Aktivitas magang ini
-      semakin mengasah kemampuan pengajaran menggunakan teknologi informasi dan
-      keterampilan manajemen kelas saya.*
+      Saya juga memperoleh pengalaman praktis selama magang di Unit P4 Fakultas
+      Ilmu Budaya di mana saya mendukung berbagai kegiatan kampus seperti
+      dokumentasi acara, desain sertifikat, dan tugas administratif. Selain itu
+      saya pernah melakukan magang di SMPN 15 Malang sebagai pengajar mata
+      pelajaran Bahasa Indonesia. Aktivitas magang ini semakin mengasah
+      kemampuan pengajaran menggunakan teknologi informasi dan keterampilan
+      manajemen kelas saya.*
 
 
       ##### *Saya memiliki beberapa sertifikat yang mendukung kualifikasi saya,
