@@ -52,15 +52,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - type: Link
-        label: '| WA |'
-        altText: ''
-        url: whatsapp.me
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
     badge:
       label: CV
       color: text-light
