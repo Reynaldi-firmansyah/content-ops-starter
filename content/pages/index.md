@@ -90,7 +90,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: >
       Saya lulus dengan gelar Sarjana Pendidikan Bahasa dan Sastra Indonesia
       dari Universitas Brawijaya dengan IPK 3,79. Rasa ingin tahu dan keinginan
       saya untuk menjelajahi bidang-bidang baru telah memungkinkan saya
@@ -107,20 +107,11 @@ sections:
       saya pernah melakukan magang di SMPN 15 Malang sebagai pengajar mata
       pelajaran Bahasa Indonesia. Aktivitas magang ini semakin mengasah
       kemampuan pengajaran menggunakan teknologi informasi dan keterampilan
-      manajemen kelas saya.
-
-
-      Saya memiliki beberapa sertifikat yang mendukung kualifikasi saya, antara
-      lain sertifikat Microsoft Office dengan predikat excellent grade yang
-      menunjukkan keterampilan tinggi dalam penggunaan aplikasi tersebut,
-      sertifikat TOEFL ITP dengan skor 577 yang mencerminkan kemampuan bahasa
-      Inggris saya yang kuat, terutama dalam mendengarkan, membaca, dan tata
-      bahasa. Selain itu, saya juga memiliki sertifikat GitLab 101 yang
-      menandakan pemahaman dalam penggunaan platform GitLab. Saya juga mempunyai
-      sertifikat IBM Web Development Fundamentals yang memberikan dasar
-      pengetahuan pengembangan web. Saya siap bekerja pada posisi yang
-      dibutuhkan sesuai dengan kemampuan dan keahlian saya.
-
+      manajemen kelas saya. Saya memiliki beberapa sertifikat antara lain
+      sertifikat Microsoft Office dengan predikat excellent grade, sertifikat
+      TOEFL ITP dengan skor 57. sertifikat GitLab 101 dan sertifikat IBM Web
+      Development Fundamentals. Saya siap bekerja pada posisi yang dibutuhkan
+      sesuai dengan kemampuan dan keahlian saya.
     colors: bg-light-fg-dark
     styles:
       self:
