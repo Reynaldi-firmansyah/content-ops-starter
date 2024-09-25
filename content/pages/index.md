@@ -350,6 +350,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
