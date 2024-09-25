@@ -302,7 +302,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 'Sertifikat Gitlab '
-        tagline: Sertifikat 1
+        tagline: Sertifikat 4
         subtitle: ''
         text: |
           <div style="text-align: center;">
