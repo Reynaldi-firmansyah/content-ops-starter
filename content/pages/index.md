@@ -326,7 +326,7 @@ sections:
           - pb-20
           - pr-20
   - type: CarouselSection
-    subtitle: Pengalaman
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: >-
