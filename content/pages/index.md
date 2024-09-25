@@ -338,10 +338,6 @@ sections:
       allowfullscreen frameborder='0'></iframe>
 
     actions: []
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
