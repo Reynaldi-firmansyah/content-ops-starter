@@ -325,21 +325,6 @@ sections:
           - pl-20
           - pb-20
           - pr-20
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Pengalaman
-      color: text-dark
-    subtitle: ''
-    text: |+
-
-
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
 seo:
   metaTitle: 'Reynaldi '
   metaDescription: Reynaldi personal website
