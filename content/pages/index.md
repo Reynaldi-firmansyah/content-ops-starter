@@ -332,7 +332,8 @@ sections:
         title: ''
         tagline: ''
         subtitle: This is the item subtitle
-        text: ''
+        text: |
+          a
         image:
           type: ImageBlock
           altText: Placeholder text
