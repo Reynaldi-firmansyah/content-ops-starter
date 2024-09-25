@@ -349,7 +349,17 @@ sections:
             self:
               borderRadius: medium
           url: /images/IBM.png
-        actions: []
+        actions:
+          - type: Button
+            label: Unduh
+            altText: ''
+            url: >-
+              https://www.credly.com/badges/1dded78c-e10c-4f8e-b6c1-b5105cdf23d1/linked_in?t=sj0ai8
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
