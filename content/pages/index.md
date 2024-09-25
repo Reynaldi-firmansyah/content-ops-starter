@@ -402,6 +402,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
 seo:
   metaTitle: 'Reynaldi '
   metaDescription: Reynaldi personal website
