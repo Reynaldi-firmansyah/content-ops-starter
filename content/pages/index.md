@@ -311,6 +311,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/Gitlab.png
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
