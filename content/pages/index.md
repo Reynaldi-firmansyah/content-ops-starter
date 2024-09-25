@@ -265,7 +265,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Sertifikat Grow With Google
-        tagline: Sertifikat 4
+        tagline: Sertifikat 5
         subtitle: ''
         text: |
           Berikut adalah sertifikat partisipasi program Grow With Google.
