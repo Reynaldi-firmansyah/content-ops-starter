@@ -264,7 +264,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Sertifikat Grow With Google
+        title: Sertifikat Grow With Googl
         tagline: Sertifikat 5
         subtitle: ''
         text: |+
