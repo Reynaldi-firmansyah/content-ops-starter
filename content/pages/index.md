@@ -337,7 +337,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 'Sertifikat IBM '
-        tagline: Sertifikat 1
+        tagline: Sertifikat 6
         subtitle: ''
         text: |+
 
