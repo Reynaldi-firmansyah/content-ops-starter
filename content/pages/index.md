@@ -339,13 +339,8 @@ sections:
         title: 'Sertifikat IBM '
         tagline: Sertifikat 1
         subtitle: ''
-        text: |
-          <div style="text-align: center;">
-              <a href="https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/UKBI.pdf" download="">
-                  <img src="/images/UKBI75.png" alt="UKBI75" style="display: block; margin: auto;">
-              </a>
-              <p>Berikut adalah sertifikat UKBI yang saya miliki. Silahkan tekan gambar untuk mengunduh file .pdf</p>
-          </div>
+        text: |+
+
         image:
           type: ImageBlock
           altText: Featured item
