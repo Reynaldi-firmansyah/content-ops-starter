@@ -339,8 +339,9 @@ sections:
         title: 'Sertifikat IBM '
         tagline: Sertifikat 6
         subtitle: ''
-        text: |+
-
+        text: >
+          Berikut adalah badge IBM web development fundamentals yang saya
+          miliki.
         image:
           type: ImageBlock
           altText: Featured item
