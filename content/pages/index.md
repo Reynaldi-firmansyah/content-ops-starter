@@ -332,8 +332,11 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |
-          a
+        text: >-
+          <iframe
+          src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=14pU7kYTYUDIJeUWxEIqp4s-B6bjtIkdmupoHQedpLsw&font=Default&lang=id&initial_zoom=2&height=650'
+          width='100%' height='650' webkitallowfullscreen mozallowfullscreen
+          allowfullscreen frameborder='0'></iframe>
         actions: []
         colors: bg-light-fg-dark
         styles:
