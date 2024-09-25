@@ -100,14 +100,14 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      ###### Saya lulus dengan gelar Sarjana Pendidikan Bahasa dan Sastra
+      ###### *Saya lulus dengan gelar Sarjana Pendidikan Bahasa dan Sastra
       Indonesia dari Universitas Brawijaya dengan IPK 3,79. Rasa ingin tahu dan
       keinginan saya untuk menjelajahi bidang-bidang baru telah memungkinkan
       saya mendapatkan pengalaman praktis yang berharga dalam pengajaran dan
-      penerjemahan.
+      penerjemahan.*
 
 
-      ###### Sejak 2019 saya menjadi penerjemah di komunitas FOSS melalui
+      ###### *Sejak 2019 saya menjadi penerjemah di komunitas FOSS melalui
       platform Launchpad.net. Saya mengikuti komunitas FOSS dengan harapan bisa
       mempermudah masyarakat Indonesia untuk mengakses teknologi sumber terbuka.
       Saya juga memperoleh pengalaman praktis yang signifikan selama magang di
@@ -116,21 +116,22 @@ sections:
       administratif. Selain itu saya pernah melakukan magang di SMPN 15 Malang
       sebagai pengajar mata pelajaran Bahasa Indonesia. Aktivitas magang ini
       semakin mengasah kemampuan pengajaran menggunakan teknologi informasi dan
-      keterampilan manajemen kelas saya.
+      keterampilan manajemen kelas saya.*
 
 
-      ###### 
+      ###### **
 
-      Saya memiliki beberapa sertifikat yang mendukung kualifikasi saya, antara
-      lain sertifikat Microsoft Office dengan predikat excellent grade yang
-      menunjukkan keterampilan tinggi dalam penggunaan aplikasi tersebut,
+
+      ###### *Saya memiliki beberapa sertifikat yang mendukung kualifikasi saya,
+      antara lain sertifikat Microsoft Office dengan predikat excellent grade
+      yang menunjukkan keterampilan tinggi dalam penggunaan aplikasi tersebut,
       sertifikat TOEFL ITP dengan skor 577 yang mencerminkan kemampuan bahasa
       Inggris saya yang kuat, terutama dalam mendengarkan, membaca, dan tata
       bahasa. Selain itu, saya juga memiliki sertifikat GitLab 101 yang
       menandakan pemahaman dalam penggunaan platform GitLab. Saya juga mempunyai
       sertifikat IBM Web Development Fundamentals yang memberikan dasar
       pengetahuan pengembangan web. Saya siap bekerja pada posisi yang
-      dibutuhkan sesuai dengan kemampuan dan keahlian saya.
+      dibutuhkan sesuai dengan kemampuan dan keahlian saya.*
 
     colors: bg-light-fg-dark
     styles:
