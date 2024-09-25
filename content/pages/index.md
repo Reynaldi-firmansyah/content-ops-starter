@@ -99,11 +99,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
-      Saya lulus dengan gelar Sarjana Pendidikan Bahasa dan Sastra Indonesia
-      dari Universitas Brawijaya dengan IPK 3,79. Rasa ingin tahu dan keinginan
-      saya untuk menjelajahi bidang-bidang baru telah memungkinkan saya
-      mendapatkan pengalaman praktis yang berharga dalam pengajaran dan
+    text: >+
+      ###### Saya lulus dengan gelar Sarjana Pendidikan Bahasa dan Sastra
+      Indonesia dari Universitas Brawijaya dengan IPK 3,79. Rasa ingin tahu dan
+      keinginan saya untuk menjelajahi bidang-bidang baru telah memungkinkan
+      saya mendapatkan pengalaman praktis yang berharga dalam pengajaran dan
       penerjemahan.
 
       Sejak 2019 saya menjadi penerjemah di komunitas FOSS melalui platform
@@ -127,6 +127,7 @@ sections:
       sertifikat IBM Web Development Fundamentals yang memberikan dasar
       pengetahuan pengembangan web. Saya siap bekerja pada posisi yang
       dibutuhkan sesuai dengan kemampuan dan keahlian saya.
+
     colors: bg-light-fg-dark
     styles:
       self:
