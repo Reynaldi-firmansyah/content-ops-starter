@@ -351,7 +351,7 @@ sections:
           url: /images/IBM.png
         actions:
           - type: Button
-            label: Unduh
+            label: Verifikasi
             altText: ''
             url: >-
               https://www.credly.com/badges/1dded78c-e10c-4f8e-b6c1-b5105cdf23d1/linked_in?t=sj0ai8
