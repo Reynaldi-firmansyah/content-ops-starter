@@ -52,15 +52,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - type: Link
-        label: '| WA |'
-        altText: ''
-        url: whatsapp.me
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
     badge:
       label: CV
       color: text-light
@@ -368,7 +359,7 @@ sections:
               - pb-9
               - pl-9
               - pr-9
-            textAlign: center
+            textAlign: left
             borderRadius: large
             flexDirection: row
             justifyContent: center
