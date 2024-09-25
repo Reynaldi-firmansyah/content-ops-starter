@@ -100,14 +100,33 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Perkenalkan, saya Reynaldi Firmansyah Caesar, seorang lulusan baru dengan
-      gelar Sarjana Pendidikan Bahasa dan Sastra Indonesia dari Universitas
-      Brawijaya. Dengan latar belakang akademis yang solid, lulus dengan IPK
-      3.79 dan mendapatkan predikat "Sangat Memuaskan", saya memiliki minat yang
-      besar dalam bahasa, sastra, dan pendidikan. Pengalaman saya sebagai
-      berikut, magang sebagai staf di Unit P4 FIB UB dan sebagai pengajar di
-      SMPN 15 Malang. Selain itu, saya aktif sebagai penerjemah sukarela di
-      Launchpad.net sejak 2019.
+      Saya lulus dengan gelar Sarjana Pendidikan Bahasa dan Sastra Indonesia
+      dari Universitas Brawijaya dengan IPK 3,79. Rasa ingin tahu dan keinginan
+      saya untuk menjelajahi bidang-bidang baru telah memungkinkan saya
+      mendapatkan pengalaman praktis yang berharga dalam pengajaran dan
+      penerjemahan.
+
+      Sejak 2019 saya menjadi penerjemah di komunitas FOSS melalui platform
+      Launchpad.net. Saya mengikuti komunitas FOSS dengan harapan bisa
+      mempermudah masyarakat Indonesia untuk mengakses teknologi sumber terbuka.
+      Saya juga memperoleh pengalaman praktis yang signifikan selama magang di
+      Unit P4 Fakultas Ilmu Budaya di mana saya mendukung berbagai kegiatan
+      kampus seperti dokumentasi acara, desain sertifikat, dan tugas
+      administratif. Selain itu saya pernah melakukan magang di SMPN 15 Malang
+      sebagai pengajar mata pelajaran Bahasa Indonesia. Aktivitas magang ini
+      semakin mengasah kemampuan pengajaran menggunakan teknologi informasi dan
+      keterampilan manajemen kelas saya.
+
+      Saya memiliki beberapa sertifikat yang mendukung kualifikasi saya, antara
+      lain sertifikat Microsoft Office dengan predikat excellent grade yang
+      menunjukkan keterampilan tinggi dalam penggunaan aplikasi tersebut,
+      sertifikat TOEFL ITP dengan skor 577 yang mencerminkan kemampuan bahasa
+      Inggris saya yang kuat, terutama dalam mendengarkan, membaca, dan tata
+      bahasa. Selain itu, saya juga memiliki sertifikat GitLab 101 yang
+      menandakan pemahaman dalam penggunaan platform GitLab. Saya juga mempunyai
+      sertifikat IBM Web Development Fundamentals yang memberikan dasar
+      pengetahuan pengembangan web. Saya siap bekerja pada posisi yang
+      dibutuhkan sesuai dengan kemampuan dan keahlian saya.
     colors: bg-light-fg-dark
     styles:
       self:
