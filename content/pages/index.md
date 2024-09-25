@@ -119,9 +119,6 @@ sections:
       keterampilan manajemen kelas saya.*
 
 
-      ###### **
-
-
       ###### *Saya memiliki beberapa sertifikat yang mendukung kualifikasi saya,
       antara lain sertifikat Microsoft Office dengan predikat excellent grade
       yang menunjukkan keterampilan tinggi dalam penggunaan aplikasi tersebut,
