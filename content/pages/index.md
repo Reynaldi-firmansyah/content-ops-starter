@@ -348,6 +348,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/IBM.png
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
