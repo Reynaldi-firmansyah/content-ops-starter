@@ -99,15 +99,37 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
-      Perkenalkan, saya Reynaldi Firmansyah Caesar, seorang lulusan baru dengan
-      gelar Sarjana Pendidikan Bahasa dan Sastra Indonesia dari Universitas
-      Brawijaya. Dengan latar belakang akademis yang solid, lulus dengan IPK
-      3.79 dan mendapatkan predikat "Sangat Memuaskan", saya memiliki minat yang
-      besar dalam bahasa, sastra, dan pendidikan. Pengalaman saya sebagai
-      berikut, magang sebagai staf di Unit P4 FIB UB dan sebagai pengajar di
-      SMPN 15 Malang. Selain itu, saya aktif sebagai penerjemah sukarela di
-      Launchpad.net sejak 2019.
+    text: >+
+      Saya lulus dengan gelar Sarjana Pendidikan Bahasa dan Sastra Indonesia
+      dari Universitas Brawijaya dengan IPK 3,79. Rasa ingin tahu dan keinginan
+      saya untuk menjelajahi bidang-bidang baru telah memungkinkan saya
+      mendapatkan pengalaman praktis yang berharga dalam pengajaran dan
+      penerjemahan.
+
+
+      Sejak 2019 saya menjadi penerjemah di komunitas FOSS melalui platform
+      Launchpad.net. Saya mengikuti komunitas FOSS dengan harapan bisa
+      mempermudah masyarakat Indonesia untuk mengakses teknologi sumber terbuka.
+      Saya juga memperoleh pengalaman praktis selama magang di Unit P4 Fakultas
+      Ilmu Budaya di mana saya mendukung berbagai kegiatan kampus seperti
+      dokumentasi acara, desain sertifikat, dan tugas administratif. Selain itu
+      saya pernah melakukan magang di SMPN 15 Malang sebagai pengajar mata
+      pelajaran Bahasa Indonesia. Aktivitas magang ini semakin mengasah
+      kemampuan pengajaran menggunakan teknologi informasi dan keterampilan
+      manajemen kelas saya.
+
+
+      Saya memiliki beberapa sertifikat yang mendukung kualifikasi saya, antara
+      lain sertifikat Microsoft Office dengan predikat excellent grade yang
+      menunjukkan keterampilan tinggi dalam penggunaan aplikasi tersebut,
+      sertifikat TOEFL ITP dengan skor 577 yang mencerminkan kemampuan bahasa
+      Inggris saya yang kuat, terutama dalam mendengarkan, membaca, dan tata
+      bahasa. Selain itu, saya juga memiliki sertifikat GitLab 101 yang
+      menandakan pemahaman dalam penggunaan platform GitLab. Saya juga mempunyai
+      sertifikat IBM Web Development Fundamentals yang memberikan dasar
+      pengetahuan pengembangan web. Saya siap bekerja pada posisi yang
+      dibutuhkan sesuai dengan kemampuan dan keahlian saya.
+
     colors: bg-light-fg-dark
     styles:
       self:
@@ -242,11 +264,11 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Sertifikat Grow With Google
+        title: Sertifikat Grow With Googl
         tagline: Sertifikat 4
         subtitle: ''
         text: |
-          Berikut adalah sertifikat partisipasi program Grow With Google.
+          Berikut adalah sertifikat partisipasi program Grow with Google.
         image:
           type: ImageBlock
           altText: Featured item
@@ -277,6 +299,79 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+      - type: FeaturedItem
+        title: 'Sertifikat Gitlab '
+        tagline: Sertifikat 5
+        subtitle: ''
+        text: |
+          Berikut adalah sertifikat gitlab 101 yang saya miliki.
+        image:
+          type: ImageBlock
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+          url: /images/Gitlab.png
+        actions:
+          - type: Button
+            label: Unduh
+            altText: ''
+            url: >-
+              https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/reynaldi-firmansyah-caesar-698ea44d-f026-4a1f-b535-5c4e25f7d47a-certificate.pdf
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: 'Sertifikat IBM '
+        tagline: Sertifikat 6
+        subtitle: ''
+        text: >
+          Berikut adalah badge IBM web development fundamentals yang saya
+          miliki.
+        image:
+          type: ImageBlock
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+          url: /images/IBM.png
+        actions:
+          - type: Button
+            label: Verifikasi
+            altText: ''
+            url: >-
+              https://www.credly.com/badges/1dded78c-e10c-4f8e-b6c1-b5105cdf23d1/linked_in?t=sj0ai8
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: center
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
@@ -303,6 +398,45 @@ sections:
           - pl-20
           - pb-20
           - pr-20
+  - type: CarouselSection
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: >-
+          <iframe
+          src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=14pU7kYTYUDIJeUWxEIqp4s-B6bjtIkdmupoHQedpLsw&font=Default&lang=id&initial_zoom=2&height=650'
+          width='100%' height='650' webkitallowfullscreen mozallowfullscreen
+          allowfullscreen frameborder='0'></iframe>
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: center
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    title:
+      type: TitleBlock
+      text: Pengalaman
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 700
 seo:
   metaTitle: 'Reynaldi '
   metaDescription: Reynaldi personal website
