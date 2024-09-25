@@ -106,8 +106,9 @@ sections:
       saya mendapatkan pengalaman praktis yang berharga dalam pengajaran dan
       penerjemahan.
 
-      Sejak 2019 saya menjadi penerjemah di komunitas FOSS melalui platform
-      Launchpad.net. Saya mengikuti komunitas FOSS dengan harapan bisa
+
+      ###### Sejak 2019 saya menjadi penerjemah di komunitas FOSS melalui
+      platform Launchpad.net. Saya mengikuti komunitas FOSS dengan harapan bisa
       mempermudah masyarakat Indonesia untuk mengakses teknologi sumber terbuka.
       Saya juga memperoleh pengalaman praktis yang signifikan selama magang di
       Unit P4 Fakultas Ilmu Budaya di mana saya mendukung berbagai kegiatan
@@ -116,6 +117,9 @@ sections:
       sebagai pengajar mata pelajaran Bahasa Indonesia. Aktivitas magang ini
       semakin mengasah kemampuan pengajaran menggunakan teknologi informasi dan
       keterampilan manajemen kelas saya.
+
+
+      ###### 
 
       Saya memiliki beberapa sertifikat yang mendukung kualifikasi saya, antara
       lain sertifikat Microsoft Office dengan predikat excellent grade yang
