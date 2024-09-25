@@ -267,8 +267,9 @@ sections:
         title: Sertifikat Grow With Google
         tagline: Sertifikat 5
         subtitle: ''
-        text: |
-          Berikut adalah sertifikat partisipasi program Grow With Google.
+        text: |+
+          Berikut adalah sertifikat course gitlab 101.
+
         image:
           type: ImageBlock
           altText: Featured item
