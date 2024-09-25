@@ -304,7 +304,7 @@ sections:
         tagline: Sertifikat 5
         subtitle: ''
         text: |
-          Berikut adalah sertifikat gitlab 101.
+          Berikut adalah sertifikat gitlab 101 yang saya miliki.
         image:
           type: ImageBlock
           altText: Featured item
