@@ -312,7 +312,17 @@ sections:
             self:
               borderRadius: medium
           url: /images/Gitlab.png
-        actions: []
+        actions:
+          - type: Button
+            label: Unduh
+            altText: ''
+            url: >-
+              https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/reynaldi-firmansyah-caesar-698ea44d-f026-4a1f-b535-5c4e25f7d47a-certificate.pdf
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
