@@ -334,12 +334,6 @@ sections:
         subtitle: ''
         text: |
           a
-        image:
-          type: ImageBlock
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
