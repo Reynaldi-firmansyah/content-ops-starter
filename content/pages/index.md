@@ -397,7 +397,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Pengalaman
       color: text-dark
 seo:
   metaTitle: 'Reynaldi '
