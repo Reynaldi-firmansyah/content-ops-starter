@@ -265,7 +265,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Sertifikat Grow With Googl
-        tagline: Sertifikat 5
+        tagline: Sertifikat 4
         subtitle: ''
         text: |+
           Berikut adalah sertifikat course gitlab 101.
