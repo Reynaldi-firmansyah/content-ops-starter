@@ -330,7 +330,7 @@ sections:
       type: TitleBlock
       text: Pengalaman
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >+
       <iframe
       src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vuIrDwv-i7vbsCc_cYo7SCSUQ6WDjgo9YFa3DBj4Lqw&font=Default&lang=en&initial_zoom=2&height=650'
