@@ -303,7 +303,8 @@ sections:
         title: 'Sertifikat Gitlab '
         tagline: Sertifikat 5
         subtitle: ''
-        text: ''
+        text: |
+          Berikut adalah sertifikat gitlab 101.
         image:
           type: ImageBlock
           altText: Featured item
