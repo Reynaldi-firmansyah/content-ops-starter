@@ -276,7 +276,7 @@ sections:
           styles:
             self:
               borderRadius: medium
-          url: /images/google75.png
+          url: /images/Gitlab.png
         actions:
           - type: Button
             label: Unduh
