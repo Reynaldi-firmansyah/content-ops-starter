@@ -53,7 +53,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: '|CV|'
+        label: '|CV| '
         altText: ''
         url: >-
           https://drive.google.com/file/d/1kqr_x9umyQDXgvV0rKRixT1U9VNQf_Aq/view?usp=sharing
