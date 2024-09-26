@@ -52,6 +52,16 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        label: '|CV|'
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/1mbXnTxGdYy6Knh5TXk-6MYhHcfBOmCjl/view?usp=sharing
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     badge:
       label: CV
       color: text-light
