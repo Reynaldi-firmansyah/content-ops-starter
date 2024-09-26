@@ -53,7 +53,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: '|CV|'
         altText: ''
         url: >-
           https://drive.google.com/file/d/1mbXnTxGdYy6Knh5TXk-6MYhHcfBOmCjl/view?usp=sharing
