@@ -55,7 +55,8 @@ sections:
       - type: Link
         label: '|CV| '
         altText: ''
-        url: ''
+        url: >-
+          https://drive.google.com/file/d/1kqr_x9umyQDXgvV0rKRixT1U9VNQf_Aq/view?usp=sharing
         showIcon: false
         icon: arrowRight
         iconPosition: right
