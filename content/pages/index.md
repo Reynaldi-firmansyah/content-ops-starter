@@ -56,7 +56,7 @@ sections:
         label: '|CV|'
         altText: ''
         url: >-
-          https://drive.google.com/file/d/1mbXnTxGdYy6Knh5TXk-6MYhHcfBOmCjl/view?usp=sharing
+          https://drive.google.com/file/d/1WfSugo0r5044XSbLhDRXuVJO0Getq75m/view?usp=sharing
         showIcon: false
         icon: arrowRight
         iconPosition: right
