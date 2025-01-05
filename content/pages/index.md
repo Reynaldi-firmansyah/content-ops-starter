@@ -409,7 +409,7 @@ sections:
       color: text-primary
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: SERTIFIKAT
       color: text-dark
   - type: DividerSection
     title: Divider
