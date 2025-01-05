@@ -221,7 +221,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Sertifikat TPA OTO BAPPENAS
-        tagline: Sertifikat 1
+        tagline: Sertifikat 3
         subtitle: ''
         text: |
           <div style="text-align: center;">
