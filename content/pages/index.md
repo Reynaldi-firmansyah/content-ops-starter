@@ -410,7 +410,7 @@ sections:
     title:
       type: TitleBlock
       text: SERTIFIKAT
-      color: text-dark
+      color: text-primary
   - type: DividerSection
     title: Divider
     elementId: ''
