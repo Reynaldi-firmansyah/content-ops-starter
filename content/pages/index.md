@@ -258,7 +258,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Sertifikat TI
-        tagline: Sertifikat 3
+        tagline: Sertifikat 4
         subtitle: ''
         text: |+
           Berikut adalah sertifikat TI yang saya miliki. 
