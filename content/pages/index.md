@@ -383,7 +383,7 @@ sections:
           fontWeight: 700
     badge:
       type: Badge
-      label: Sertifikat TPA OTO BAPPENAS
+      label: 'Sertifikat '
       color: text-primary
   - type: DividerSection
     title: Divider
