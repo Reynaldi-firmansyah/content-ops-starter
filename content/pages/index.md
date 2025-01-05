@@ -405,7 +405,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: SERTIFIKAT
+      text: Sertifikat
       color: text-primary
   - type: DividerSection
     title: Divider
