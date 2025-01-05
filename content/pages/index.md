@@ -407,6 +407,10 @@ sections:
       type: Badge
       label: 'Sertifikat '
       color: text-primary
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: DividerSection
     title: Divider
     elementId: ''
