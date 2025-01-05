@@ -223,9 +223,15 @@ sections:
         title: Sertifikat TPA OTO BAPPENAS
         tagline: Sertifikat 3
         subtitle: ''
-        text: |+
-          <div style="text-align: center"></div>
+        text: >
+          <a
+          href="https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/TPAOTO.pdf"
+          download>
+              <img src="https://github.com/Reynaldi-firmansyah/content-ops-starter/blob/main/public/images/TPA.png" alt="TPA" style="display: block; margin: auto;">
+          </a>
 
+          <p>Berikut adalah sertifikat TPA yang saya miliki. Silahkan tekan
+          gambar untuk mengunduh file .pdf</p>
         image:
           type: ImageBlock
           altText: Featured item
