@@ -407,6 +407,9 @@ sections:
       type: TitleBlock
       text: Sertifikat
       color: text-primary
+      styles:
+        self:
+          textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
