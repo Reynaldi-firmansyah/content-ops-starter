@@ -220,8 +220,45 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Sertifikat TI
+        title: Sertifikat TPA OTO BAPPENAS
         tagline: Sertifikat 3
+        subtitle: ''
+        text: |+
+          Berikut sertifikat TPA OTO BAPPENAS yang saya miliki.
+
+        image:
+          type: ImageBlock
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+          url: /images/TPA.png
+        actions:
+          - type: Button
+            label: Unduh
+            altText: ''
+            url: >-
+              https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/TPAOTO.pdf
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: center
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Sertifikat TI
+        tagline: Sertifikat 4
         subtitle: ''
         text: |+
           Berikut adalah sertifikat TI yang saya miliki. 
@@ -259,7 +296,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Sertifikat Grow With Google
-        tagline: Sertifikat 4
+        tagline: Sertifikat 5
         subtitle: ''
         text: |
           Berikut adalah sertifikat partisipasi program Grow with Google.
@@ -295,7 +332,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 'Sertifikat Gitlab '
-        tagline: Sertifikat 5
+        tagline: Sertifikat 6
         subtitle: ''
         text: |
           Berikut adalah sertifikat gitlab 101 yang saya miliki.
@@ -331,7 +368,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 'Sertifikat IBM '
-        tagline: Sertifikat 6
+        tagline: Sertifikat 7
         subtitle: ''
         text: >
           Berikut adalah badge IBM web development fundamentals yang saya
@@ -376,11 +413,10 @@ sections:
     title:
       type: TitleBlock
       text: Sertifikat
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
-          fontWeight: 700
   - type: DividerSection
     title: Divider
     elementId: ''
