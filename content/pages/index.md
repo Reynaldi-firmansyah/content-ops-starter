@@ -220,6 +220,36 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
+        title: Sertifikat TPA OTO BAPPENAS
+        tagline: Sertifikat 1
+        subtitle: ''
+        text: |
+          <div style="text-align: center;">
+              <a href="https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/UKBI.pdf" download="">
+                  <img src="/images/UKBI75.png" alt="UKBI75" style="display: block; margin: auto;">
+              </a>
+              <p>Berikut adalah sertifikat UKBI yang saya miliki. Silahkan tekan gambar untuk mengunduh file .pdf</p>
+          </div>
+        image:
+          type: ImageBlock
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: center
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
         title: Sertifikat TI
         tagline: Sertifikat 3
         subtitle: ''
@@ -254,36 +284,6 @@ sections:
               - pl-9
               - pr-9
             textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Sertifikat TPA OTO BAPPENAS
-        tagline: Sertifikat 1
-        subtitle: ''
-        text: |
-          <div style="text-align: center;">
-              <a href="https://github.com/Reynaldi-firmansyah/content-ops-starter/raw/main/public/PDF/UKBI.pdf" download="">
-                  <img src="/images/UKBI75.png" alt="UKBI75" style="display: block; margin: auto;">
-              </a>
-              <p>Berikut adalah sertifikat UKBI yang saya miliki. Silahkan tekan gambar untuk mengunduh file .pdf</p>
-          </div>
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: center
             borderRadius: large
             flexDirection: row
             justifyContent: center
