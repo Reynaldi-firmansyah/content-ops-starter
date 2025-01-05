@@ -381,6 +381,10 @@ sections:
         self:
           textAlign: center
           fontWeight: 700
+    badge:
+      type: Badge
+      label: Sertifikat TPA OTO BAPPENAS
+      color: text-primary
   - type: DividerSection
     title: Divider
     elementId: ''
