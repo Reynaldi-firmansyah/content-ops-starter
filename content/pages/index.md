@@ -232,6 +232,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/TPA.png
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
