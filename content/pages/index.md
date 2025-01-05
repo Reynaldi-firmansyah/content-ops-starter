@@ -223,7 +223,9 @@ sections:
         title: Sertifikat TPA OTO BAPPENAS
         tagline: Sertifikat 3
         subtitle: ''
-        text: ''
+        text: |+
+          Berikut sertifikat TPA OTO BAPPENAS yang saya miliki.
+
         image:
           type: ImageBlock
           altText: Featured item
