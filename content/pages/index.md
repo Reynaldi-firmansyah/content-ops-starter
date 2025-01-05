@@ -403,14 +403,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    title:
-      type: TitleBlock
-      text: Sertifikat
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 700
     badge:
       type: Badge
       label: 'Sertifikat '
