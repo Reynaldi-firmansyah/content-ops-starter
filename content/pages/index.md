@@ -368,7 +368,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 'Sertifikat IBM '
-        tagline: Sertifikat 6
+        tagline: Sertifikat 7
         subtitle: ''
         text: >
           Berikut adalah badge IBM web development fundamentals yang saya
