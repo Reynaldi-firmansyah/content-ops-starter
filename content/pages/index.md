@@ -332,7 +332,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 'Sertifikat Gitlab '
-        tagline: Sertifikat 5
+        tagline: Sertifikat 6
         subtitle: ''
         text: |
           Berikut adalah sertifikat gitlab 101 yang saya miliki.
