@@ -100,28 +100,10 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
-      Saya lulus dengan gelar Sarjana Pendidikan Bahasa dan Sastra Indonesia
-      dari Universitas Brawijaya dengan IPK 3,79. Rasa ingin tahu dan keinginan
-      saya untuk menjelajahi bidang-bidang baru telah memungkinkan saya
-      mendapatkan pengalaman praktis yang berharga dalam pengajaran dan
-      penerjemahan.
+    text: >+
+      Saya lulusan Sarjana Pendidikan Bahasa dan Sastra Indonesia dari
+      Universitas Brawijaya. Saya senang mempelajari hal baru. 
 
-
-      Sejak 2019 saya menjadi penerjemah di komunitas FOSS melalui platform
-      Launchpad.net. Saya mengikuti komunitas FOSS dengan harapan bisa
-      mempermudah masyarakat Indonesia untuk mengakses teknologi sumber terbuka.
-      Saya juga memperoleh pengalaman praktis selama magang di Unit P4 Fakultas
-      Ilmu Budaya di mana saya mendukung berbagai kegiatan kampus seperti
-      dokumentasi acara, desain sertifikat, dan tugas administratif. Selain itu
-      saya pernah melakukan magang di SMPN 15 Malang sebagai pengajar mata
-      pelajaran Bahasa Indonesia. Aktivitas magang ini semakin mengasah
-      kemampuan pengajaran menggunakan teknologi informasi dan keterampilan
-      manajemen kelas saya. Saya memiliki beberapa sertifikat antara lain
-      sertifikat Microsoft Office dengan predikat excellent grade, sertifikat
-      TOEFL ITP dengan skor 57. sertifikat GitLab 101 dan sertifikat IBM Web
-      Development Fundamentals. Saya siap bekerja pada posisi yang dibutuhkan
-      sesuai dengan kemampuan dan keahlian saya.
     colors: bg-light-fg-dark
     styles:
       self:
